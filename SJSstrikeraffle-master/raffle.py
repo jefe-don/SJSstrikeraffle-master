@@ -6,6 +6,15 @@ import time
 from producer import Producer
 from consumer import Consumer
 
+print"---------------------------"
+print"747 Warehouse Raffle Script"
+print"---------------------------"
+print"By @yeezydon"
+print"---------------------------"
+print"FOR STRIKE SHOES MEMBERS ONLY"
+print"---------------------------"
+
+
 if sys.version_info[0] < 3:
     raise Exception("Python 3 or a more recent version is required.")
 
