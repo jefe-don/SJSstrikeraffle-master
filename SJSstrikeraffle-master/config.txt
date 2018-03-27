@@ -1,0 +1,10 @@
+twocaptchaKey=XXXXXX #replace with your captcha key
+url=https://slamjamsocialism-drops.com/drops/69/
+sitekey=6LfYhz0UAAAAAJFKp28Sg0NnAEIPMfKI1RJSGsdB
+productNo=56
+raffleNo=69
+phoneAreaCode=840
+catchAllDomain=strikeshoes.ltd #replace with your domain or put a gmail
+catchAllPrefix=jefe #add prefix
+producerThread=10
+consumerThread=2
